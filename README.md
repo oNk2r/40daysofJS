@@ -7,3 +7,4 @@
 5. ✅ Day 5: Loops (for, while, do-while) & Iteration Techniques
 6. ✅ Day 6: Functions & Arrow Functions
 7. ✅ Day 7: Mini Project
+8. ✅ Day 8: Execution Context & Call Stack (How JavaScript runs your code!)
