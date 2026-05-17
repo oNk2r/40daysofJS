@@ -8,3 +8,4 @@
 6. ✅ Day 6: Functions & Arrow Functions
 7. ✅ Day 7: Mini Project
 8. ✅ Day 8: Execution Context & Call Stack (How JavaScript runs your code!)
+9. ✅ Day 9: Hoisting and Temporal Dead Zone(TDZ)
