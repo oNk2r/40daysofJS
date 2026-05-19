@@ -10,3 +10,4 @@
 8. ✅ Day 8: Execution Context & Call Stack (How JavaScript runs your code!)
 9. ✅ Day 9: Hoisting and Temporal Dead Zone(TDZ)
 10. ✅ Day 10: Scope & Scope Chaining 
+11. ✅ Day 11: Closures Explained in Depth (Practical examples)
