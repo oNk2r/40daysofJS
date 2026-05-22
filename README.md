@@ -12,3 +12,4 @@
 10. ✅ Day 10: Scope & Scope Chaining 
 11. ✅ Day 11: Closures Explained in Depth (Practical examples)
 12. ✅ Day 12: Objects & Object Manipulation
+13. ✅ Day 13: this keyword and binding
