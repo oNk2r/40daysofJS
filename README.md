@@ -14,3 +14,4 @@
 12. ✅ Day 12: Objects & Object Manipulation
 13. ✅ Day 13: this keyword and 
 14. ✅ Day 14: Error Handling in JavaScript
+15. ✅ Day 15: Array Master Course
