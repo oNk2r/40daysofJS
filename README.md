@@ -16,3 +16,4 @@
 14. ✅ Day 14: Error Handling in JavaScript
 15. ✅ Day 15: Array Master Course
 16. ✅ Day 16: Debugging JavaScript Code(DevTools + VS Code)
+17. ✅ Day 17:  Introduction to the DOM 
