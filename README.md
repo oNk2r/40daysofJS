@@ -18,3 +18,4 @@
 16. ✅ Day 16: Debugging JavaScript Code(DevTools + VS Code)
 17. ✅ Day 17:  Introduction to the DOM 
 18. ✅ Day 18: Manipulating the DOM
+19. ✅ Day 19: Event Handling in JavaScript 
